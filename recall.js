@@ -165,20 +165,22 @@
 // newFunc1(add);
 
 
-function myName(Fname,lName){
-    let fullName = Fname+lName;
-    return fullName;
-}
-function callmyName(a){
-    let newNames = a.toUpperCase();
-    return newNames;
-}
-function callByname(a){
-    console.log(a)
-}
-let myFullName = myName("Vinay","Rajbhar");
-let newName =  callmyName(myFullName);
-callByname(newName)
+// function myName(Fname,lName){
+//     let fullName = Fname+lName;
+//     return fullName;
+// }
+// function callmyName(a){
+//     let newNames = a.toUpperCase();
+//     return newNames;
+// }
+// function callByname(a){
+//     console.log(a)
+// }
+// let myFullName = myName("Vinay","Rajbhar");
+// let newName =  callmyName(myFullName);
+// callByname(newName)
+
+
 
 
 
