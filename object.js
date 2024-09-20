@@ -83,7 +83,7 @@
 
 
 
-let car = {company : "dell", model : "insp1521", colour: "black",}
-console.log(car.company);
-console.log(car.model);
+// let car = {company : "dell", model : "insp1521", colour: "black",}
+// console.log(car.company);
+// console.log(car.model);
 
